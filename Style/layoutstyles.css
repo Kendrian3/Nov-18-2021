@@ -15,14 +15,15 @@ body {
         left; 5px
         right: 5px;
         height: 100px;
-
+        z-index: 2;
     }
     .leftmenu { 
         top: 114px;
         left: 5px;
         width: 100px;
         bottom: 64px;
-
+        z-index: 1;
+        padding-top: 40px;
     }
 
     .mainbody {
@@ -44,5 +45,10 @@ body {
         height: 50px;
         left: 5px
         right: 5px;
-
+        font-size: 8px;
+        color: #888;
+        text-align: center;
+    }
+    .subheader {
+        float: right;
     }
