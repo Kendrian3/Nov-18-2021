@@ -1,0 +1,70 @@
+/*CSS Comment */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:grey;
+    background-color: ivory;
+}
+
+/*
+h1, h2, h3 {
+    font-weight: bold;
+    font-style: italic;
+    color:green;
+    text-decoration: underline;
+    border-color:maroon;
+    border-style:dashed;
+    padding-right: 100px;
+}
+*/
+
+/*.navi {
+    font-weight: bold;
+    font-style: italic;
+    color:rgb(1, 22, 78);
+    text-decoration: underline;
+    border-color:rgb(202, 211, 228);
+    border-style:dashed;
+    font-size: 24px;
+    /*padding-right: 100px;*/
+} */
+
+.style1 {
+    color: rgb(12, 12, 54);
+    text-decoration: underline;
+    font-weight: 16px;
+}
+
+/* {
+    font-style:italic;
+    font-size: 16px;
+    color:rgb(0, 0, 0);
+}
+*/
+
+img{
+    width: 500px;
+}
+<style>
+/*CSS Comment*/
+
+body 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    /*Colors*/
+    color:rgb(247, 247, 255);
+    background-color: rgb(98, 240, 250)
+}
+h1, h2, h3 {
+    font-weight: 300;
+    font-style: italic;
+    color:rgb(0, 18, 68);
+    text-decoration: underline;
+    border-color: rgb(186, 240, 226);
+    /*padding-right: 100px;*/
+}
+.style1 { color:rgb(62, 39, 114);
+    text-decoration: underline;
+    font-weight: 400;
+    
+</style>
