@@ -49,6 +49,23 @@
             background-position: bottom right;
             background-repeat: repeat;
         }
+        .box1 {
+            border-width: 1px;
+            border-style: solid;
+            border-color:rgb(173, 246, 252)
+            border-bottom: dotted; 2px 
+        }
+        .box2 {
+            padding: 4px;
+        }
+        .box3 {
+            margin: 5px;
+        }
+        .box4 {
+            padding-left: 10px;
+            margin: 15px;
+            border-right: solid 5px paleturquoise
+        }
 /*
 h1, h2, h3 {
     font-weight: bold;
