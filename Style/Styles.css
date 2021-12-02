@@ -22,19 +22,28 @@
         li {
             font-size: 14px;
             font-style: italic;
-            font-weight: normal;
-            }
+            font-weight: normal; }
+            
+        a {
+            color:rgb(12, 12, 54);
+            text-decoration: none; }
+        
+        a:hover {
+            text-decoration: underline; }
+        a:visited {
+            color:royalblue }
+        
         .bold {
             font-weight: bold;
-            font-style: normal;
-        }
+            font-style: normal;}
+        
         
         .underline {
-            text-decoration: underline;
-        }
+            text-decoration: underline; }
+        
         .justify {
-            text-align: justify;
-        }
+            text-align: justify; }
+        
         .home {
             background-image: url('../Image/background.jpg');
             background-position: bottom right;
