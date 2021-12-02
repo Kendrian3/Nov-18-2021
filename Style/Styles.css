@@ -4,7 +4,7 @@
             {
                 font-family: Arial, Helvetica, sans-serif;
                 /*Colors*/
-                color:rgb(247, 247, 255);
+                color:rgba(4, 121, 255, 0.253);
                 background-color: rgb(173, 246, 252)
             }
             h1, h2, h3 {
@@ -36,7 +36,7 @@
             text-align: justify;
         }
         .home {
-            background-image: url("Image/background.jpg");
+            background-image: url('../Image/background.jpg');
             background-position: bottom right;
             background-repeat: repeat;
         }
@@ -76,6 +76,3 @@ h1, h2, h3 {
 }
 */
 
-img{
-    width: 500px;
-}
